@@ -15,5 +15,5 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 
 <img src="/img/notflix2.gif" alt="gif 2 página netflix clone">
 
-<p>OBS: em breve farei o botão do menu responsivo.
+
 
